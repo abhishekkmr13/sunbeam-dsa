@@ -1,0 +1,55 @@
+# IntelliJ project files
+.idea/
+*.iml
+*.iws
+out/
+*.ipr
+
+# Build output
+target/
+bin/
+
+# Windows-specific junk
+Thumbs.db
+Desktop.ini
+
+# Java files
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# OS-generated files
+.DS_Store
+
+# Maven
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+log/
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Gradle (if present)
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Logs
+*.log
+
+# Temp files
+*.swp
+*.swo
+
+# IDE or editor backups
+*.bak
+*.tmp
+*.orig
+*.~*
+
+# JetBrains Rider
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+.idea/shelf
