@@ -1,0 +1,5 @@
+# Created at 2025-07-22T18:38:08.253
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Workspace\abhishek\java\data-structure\sunbeam-dsa\dsa\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
